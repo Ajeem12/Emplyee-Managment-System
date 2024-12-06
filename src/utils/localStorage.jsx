@@ -12,7 +12,7 @@ const employees = [
     },
     tasks: [
       {
-        title: "Task 1",
+        title: "User Authentication",
         description: "Implement the user authentication system using JWT.",
         active: true,
         newTask: false,
@@ -22,7 +22,7 @@ const employees = [
         category: "Development",
       },
       {
-        title: "Task 2",
+        title: "Create Wireframes",
         description: "Create wireframes for the upcoming mobile application.",
         active: false,
         newTask: true,
@@ -46,7 +46,7 @@ const employees = [
     },
     tasks: [
       {
-        title: "Task 1",
+        title: "Test Login and Registration",
         description: "Test the login and registration functionality for bugs.",
         active: false,
         newTask: true,
@@ -56,7 +56,7 @@ const employees = [
         category: "Testing",
       },
       {
-        title: "Task 2",
+        title: "Document the API",
         description: "Document the REST API endpoints for developers.",
         active: true,
         newTask: false,
@@ -80,7 +80,7 @@ const employees = [
     },
     tasks: [
       {
-        title: "Task 1",
+        title: "Market Research",
         description: "Conduct market research for the upcoming product launch.",
         active: true,
         newTask: true,
@@ -90,7 +90,7 @@ const employees = [
         category: "Research",
       },
       {
-        title: "Task 2",
+        title: "Design Dashboard",
         description: "Design the user interface for the dashboard.",
         active: false,
         newTask: false,
@@ -114,7 +114,7 @@ const employees = [
     },
     tasks: [
       {
-        title: "Task 1",
+        title: "Implement Payment Gateway",
         description: "Develop the backend logic for processing payments.",
         active: false,
         newTask: true,
@@ -124,7 +124,7 @@ const employees = [
         category: "Development",
       },
       {
-        title: "Task 2",
+        title: "Perform Regression Testing",
         description: "Perform regression testing on the billing module.",
         active: true,
         newTask: false,
@@ -148,7 +148,7 @@ const employees = [
     },
     tasks: [
       {
-        title: "Task 1",
+        title: "Document Onboarding Process",
         description: "Write detailed documentation for the onboarding process.",
         active: true,
         newTask: true,
@@ -158,7 +158,7 @@ const employees = [
         category: "Documentation",
       },
       {
-        title: "Task 2",
+        title: "Competitor Analysis",
         description:
           "Analyze competitor strategies for improving user engagement.",
         active: false,
